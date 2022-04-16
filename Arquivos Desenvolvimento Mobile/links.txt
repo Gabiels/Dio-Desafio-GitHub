@@ -1,5 +1,0 @@
-https://docs.expo.dev/
-https://reactnative.dev/
-https://docs.expo.dev/workflow/snack/
-https://snack.expo.dev/
-https://replit.com/~
